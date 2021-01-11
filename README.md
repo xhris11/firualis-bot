@@ -10,9 +10,9 @@ Download the latest version from here: https://www.python.org/downloads/.
 
 ### Pip installs:
 #### On Unix based systems:
-`python3.x -m pip install discord.py[voice] wavelink` (replace "x" with your subversion).
+`python3.x -m pip install discord.py[voice] wavelink lavalink` (replace "x" with your subversion).
 #### On Windows:
-`pip install discord.py[voice] wavelink`, or `py -m pip install discord.py[voice] wavelink`
+`pip install discord.py[voice] wavelink`, or `py -m pip install discord.py[voice] wavelink lavalink`
 
 ## Notes
 Feel free to fork this repository and make changes as you please, but do not distribute it beyond what is stated in the copyright information in the `LICENSE` file. The code in this repository is designed to be taken as a guide.
